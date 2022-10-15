@@ -7,7 +7,6 @@ const val CREATION: String = "2022"
 
 fun main() {
 
-
     val scanner = Scanner(System.`in`)
 
     println("Hello! My name is $NAME.")
