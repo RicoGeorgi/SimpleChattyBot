@@ -1,0 +1,1 @@
+C:\RicoGeorgi\Coding\Project\Language\Kotlin\SimpleChattyBot\build\classes\kotlin\main\bot\MainKt.class
